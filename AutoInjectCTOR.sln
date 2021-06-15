@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoInjectExample", "AutoInjectExample\AutoInjectExample.csproj", "{BEEBC329-AD8F-4312-A6AA-21F5009A917C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoInjectCTOR", "AutoInjectCTOR\AutoInjectCTOR.csproj", "{43DFF0F2-216A-43F1-8980-C09A80EF5879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEBC329-AD8F-4312-A6AA-21F5009A917C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEBC329-AD8F-4312-A6AA-21F5009A917C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEBC329-AD8F-4312-A6AA-21F5009A917C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEBC329-AD8F-4312-A6AA-21F5009A917C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DFF0F2-216A-43F1-8980-C09A80EF5879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DFF0F2-216A-43F1-8980-C09A80EF5879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DFF0F2-216A-43F1-8980-C09A80EF5879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DFF0F2-216A-43F1-8980-C09A80EF5879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0416F44-87F3-4890-96A7-67CD79E23547}
+	EndGlobalSection
+EndGlobal
